@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_check_circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="User/Big-Verified" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-162.000000, -9.000000)">
+        <g id="ic_check_circle" transform="translate(161.000000, 8.000000)">
+            <g id="Icon-24px">
+                <polygon id="Shape" points="0 0 16 0 16 16 0 16"></polygon>
+                <path d="M8,1.33333333 C4.32,1.33333333 1.33333333,4.32 1.33333333,8 C1.33333333,11.68 4.32,14.6666667 8,14.6666667 C11.68,14.6666667 14.6666667,11.68 14.6666667,8 C14.6666667,4.32 11.68,1.33333333 8,1.33333333 L8,1.33333333 Z M6.66666667,11.3333333 L3.33333333,8 L4.27333333,7.06 L6.66666667,9.44666667 L11.7266667,4.38666667 L12.6666667,5.33333333 L6.66666667,11.3333333 L6.66666667,11.3333333 Z" id="Shape" fill="#1E87F0"></path>
+            </g>
+        </g>
+    </g>
+</svg>
